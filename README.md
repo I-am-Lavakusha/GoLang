@@ -65,3 +65,16 @@ In Go again we can declare variables in 2 different ways.
 2) By using the :=
    syntax: variable_name := value
    when we do like this that the compiker will infer the type of the variable by the value.
+
+Day - 01
+
+Today started working on basic programming.
+Solved fibonacci, factorial other programs
+To get the length of the program we can use the len() fuvtion.
+To sort the array we can import sort package and then use sort.Ints(argument):
+  Points while using this sort is for every different type of data we will use helper functions like Int for integers and Float32 for float and so on.
+  Also another important thing is that we need to import the sort package before using it.
+  
+In Golang we have slice which is equivalant to array or list in other languages.
+
+  
